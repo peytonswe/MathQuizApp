@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Math Quiz App</string>
+
+    <!-- Title for math quiz app -->
+    <string name="fun_math">Fun with Math</string>
+
+    <!-- Question 1 CHAR_LIMIT=[120] -->
+    <string name="question_1">1. Which branch of mathematics concerned with questions of shape, size, relative position of figures, and the properties of space?</string>
+
+    <!-- Hint for answer to question 1 CHAR_LIMIT=[20] -->
+    <string name="answer_question_1">Your answer</string>
+
+    <!-- Question 2 CHAR_LIMIT=[100] -->
+    <string name="question_2">2. Which object bounded by six square faces, facets or sides, with three meeting at each vertex?</string>
+
+    <!-- Options for question 2 -->
+    <string name="option2_1">Tetrahedron</string>
+    <string name="option2_2">Octahedron</string>
+    <string name="option2_3">Hexahedron</string>
+
+    <!-- Question 3 CHAR_LIMIT=[50] -->
+    <string name="question_3">3. How many faces has an Icosahedron?</string>
+
+    <!-- Options for question 3-->
+    <string name="option3_1">20</string>
+    <string name="option3_2">10</string>
+    <string name="option3_3">18</string>
+
+
+    <!-- Question 4 CHAR_LIMIT=[50] -->
+    <string name="question_4">4. Which of this objects is impossible?</string>
+
+    <!-- Options for question 4 -->
+    <string name="option4_1">Penrose stairs</string>
+    <string name="option4_2">Icosahedron</string>
+    <string name="option4_3">Dodecahedron</string>
+    <string name="option4_4">Impossible trident</string>
+
+    <!-- Question 5 CHAR_LIMIT=[100] -->
+    <string name="question_5">5. The most popular person in geometry is?</string>
+
+    <string name="btn_submit">Submit</string>
+</resources>
